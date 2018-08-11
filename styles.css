@@ -2,7 +2,7 @@
 body {
     width: 100%;
     margin: 0;
-    background-image: url(/working/preview.jpg);
+    background-image: url(background.jpg);
     background-size: 100%;
     background-repeat: repeat-y;
     text-align: center
