@@ -74,3 +74,10 @@ body {
 .btn:hover::before {
     width: 100%;
 }
+
+@media only screen and (max-width: 400px) {
+    .buttons {
+        display: flex;
+        flex-direction: column
+    }
+}
